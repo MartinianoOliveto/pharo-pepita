@@ -27,6 +27,6 @@ energia := numero
 
 { #category : 'as yet unclassified' }
 Pepita >> volar: numero [
-
+self despegar.
 energia := energia - numero 
 ]
